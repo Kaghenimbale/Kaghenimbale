@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Html css and Javascript**
 
-- 💬 Ask me about **Web development(Html, CSS and Javascript)**
+- 💬 Ask me about **Web development(Html, CSS and JavaScript)**
 
 - 📫 How to reach me **kaghenimbale@gmail.com**
 
