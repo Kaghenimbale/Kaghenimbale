@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbalekagheni" target="blank"><img src="https://img.shields.io/twitter/follow/mbalekagheni?logo=twitter&style=for-the-badge" alt="mbalekagheni" /></a> </p>
 
-- 🌱 I’m currently learning **Html css and JavaScript**
+- 🌱 I’m currently learning **Html CSS and JavaScript**
 
 - 💬 Ask me about **Web development(Html, CSS and JavaScript)**
 
