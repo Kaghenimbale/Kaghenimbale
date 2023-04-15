@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate frontEnd developer from Rwanda</h3>
+<img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <a href="https://twitter.com/mbalekagheni" target="blank"><img src="https://img.shields.io/twitter/follow/mbalekagheni?logo=twitter&style=for-the-badge" alt="mbalekagheni" /></a> </p>
 
