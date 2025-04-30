@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Html css and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://candid-twilight-00e55f.netlify.app](https://chris-mk34.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kaghenimbale.vercel.app/](https://kaghenimbale.vercel.app/)
 
 - 💬 Ask me about **Web development(Html, CSS and Javascript)**
 
